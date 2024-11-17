@@ -176,7 +176,7 @@ ul li span:hover{
                font-size: 15px;
            }
        }
-       @media  screen and (max-width: 420px)  {
+       @media  screen and (max-width: 450px)  {
         .txtImg{
             height:50px;
             width: 70px;
@@ -184,7 +184,7 @@ ul li span:hover{
             padding-top: 10px;
        }
    }
-   @media  screen and (max-width: 420px)  {
+   @media  screen and (max-width: 450px)  {
     img{
         height:20px;
         width: 50px;
@@ -193,7 +193,7 @@ ul li span:hover{
         padding-bottom: 10px;
    }
 }
-@media  screen and (max-width: 420px)  {
+@media  screen and (max-width: 450px)  {
     h1{
         height:30px;
         width: 150px;
@@ -203,7 +203,7 @@ ul li span:hover{
    }
 }
 
-@media  screen and (max-width: 420px)  {
+@media  screen and (max-width: 450px)  {
     .row  {
         height: 30px;
         width: 150px;
@@ -211,14 +211,39 @@ ul li span:hover{
        padding-left: 0px;
        margin-bottom: 20px;  }
 }
-@media  screen and (max-width: 420px)  {
+@media  screen and (max-width: 450px)  {
     input {
        width: 90px;
        margin-right: 50px;
        font-size: 12px;
    }
 }
-@media  screen and (max-width: 420px)  {
+@media  screen and (max-width: 450px)  {
+    button {
+       height:10px;
+       width: 5px;
+       padding-left: 10px;
+       padding-right: 15px;
+       font-size: 12px;
+       padding-top: 10px;
+   }
+}
+@media  screen and (min-width: 450px)  {
+    .row  {
+        height: 30px;
+        width: 150px;
+       margin-left: 0px;
+       padding-left: 0px;
+       margin-bottom: 20px;  }
+}
+@media  screen and (min-width: 450px)  {
+    input {
+       width: 90px;
+       margin-right: 50px;
+       font-size: 12px;
+   }
+}
+@media  screen and (min-width: 450px)  {
     button {
        height:10px;
        width: 5px;
